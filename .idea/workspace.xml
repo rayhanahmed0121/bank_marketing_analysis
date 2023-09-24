@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="625b47ba-e378-4232-b249-8694a0259172" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/bank-full.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/bank-names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/bank.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/take_home.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +58,18 @@
       <workItem from="1695401893593" duration="8968000" />
       <workItem from="1695490332833" duration="19000" />
       <workItem from="1695490374063" duration="61000" />
-      <workItem from="1695490439098" duration="5538000" />
+      <workItem from="1695490439098" duration="5727000" />
+      <workItem from="1695502912721" duration="2992000" />
+      <workItem from="1695578656974" duration="652000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1695502198821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695502198821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
